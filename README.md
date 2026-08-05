@@ -1,4 +1,4 @@
-# Flipkart Product Review Chatbot
+# Product Recommender Chatbot
 
 A conversational RAG (Retrieval-Augmented Generation) chatbot that answers product-related queries using Flipkart customer reviews. Built with LangChain, AstraDB, Groq, and Flask — deployed on Kubernetes with Prometheus and Grafana monitoring.
 
